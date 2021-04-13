@@ -10,3 +10,7 @@
     - 感兴趣的朋友可以在此把论坛中的主题进行整理，形成一种树状结构结构，这部分方便进行查阅
     - [RemNote中文讨论小组-wiki部分](https://github.com/5eagull/RemNote-Chinese-chat-group/wiki )
  
+- 及时交流社区
+    - [QQ群1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36)
+    - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
+    - 你也可以通过QQ搜索RemNote 加入其它中文讨论社区
