@@ -21,5 +21,5 @@
   - [RN中文翻译协作](https://github.com/RemNoteCN)
   - 
 
-- RN爱好者语录
+- RN爱好者语录  
     - `记笔记 不用飞书  不用大象 要用就用 热奶 热奶笔记 你的明智之选`--dvlcis（RN=热奶）
