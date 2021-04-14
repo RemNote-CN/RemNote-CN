@@ -13,4 +13,4 @@
 - 及时交流社区
     - [QQ群1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36)
     - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
-    - 你也可以通过QQ搜索RemNote 加入其它中文讨论社区
+    - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
