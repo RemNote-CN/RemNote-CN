@@ -8,7 +8,7 @@
     - [RemNote中文讨论小组-论坛部分](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions)  
   - WIKI部分
     - 感兴趣的朋友可以在此把论坛中的主题进行整理，形成一种树状结构结构，这部分方便进行查阅
-    - [RemNote中文讨论小组-wiki部分](https://github.com/5eagull/RemNote-Chinese-chat-group/wiki )
+    - [RemNote中文讨论小组-wiki部分](https://github.com/5eagull/RemNote-Chinese-chat-group/wiki/%F0%9F%8C%B4RN%E7%9F%A5%E8%AF%86%E5%BA%93-HOME )
  - 🍉欢迎RemNote的爱好者们参与构建
     - [如何搜索你需要的内容](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/12)
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
