@@ -1,5 +1,5 @@
 # 🙋‍♂️**欢迎小伙伴们来到 RemNote 中文讨论小组-首页**🙋  
-- **这个小组旨在互相帮助，分享和交流一些使用经验，共建一个协作知识库**  
+- 🌞**这个小组旨在互相帮助，分享和交流一些使用经验，共建一个协作知识库**  
   - 因为该软件是英文软件没有很好的中文论坛支持所以有了这个基于github的讨论社区
   - 老成员可以添加自己知道的知识进入讨论组中  
   - 新、老成员都可以通过搜索查找自己需要的内容  
@@ -13,13 +13,13 @@
  - 🍉欢迎RemNote的爱好者们参与构建
     - [如何搜索你需要的内容](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/12)
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
-- 及时交流社区
+- 💬及时交流社区
     - [QQ群1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36)
     - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
     - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
-- 相关链接
+- 🔗相关链接
   - [RN中文翻译协作](https://github.com/RemNoteCN)
-  - 
+  - [RN官方论坛](https://forum.remnote.io)
 
-- RN爱好者语录  
+- 📑RN爱好者语录  
     - `记笔记 不用飞书  不用大象 要用就用 热奶 热奶笔记 你的明智之选`--dvlcis（RN=热奶）
