@@ -19,6 +19,7 @@
     - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
 - 🔗相关链接
   - [RN中文翻译协作](https://github.com/RemNoteCN)
+  - [RN中文翻译协作2](https://github.com/TimKingNF/RemNote-Tutorials-Translated)
   - [RN官方论坛](https://forum.remnote.io)
 
 - 📑RN爱好者语录  
