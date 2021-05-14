@@ -10,14 +10,23 @@
   - WIKI部分
     - 感兴趣的朋友可以在此把论坛中的主题进行整理，形成一种树状结构结构，这部分方便进行查阅
     - [RemNote中文讨论小组-wiki部分(RN知识库)](https://github.com/5eagull/RemNote-CN/wiki )
+      - 你可以直接编辑中文帮助文档里头的内容！（已开放公众编辑权限）
+      - 当你想分享 RemNote 使用心得的时候
+      - 当你想志愿翻译 RemNote
+      - 当你觉得文档需要优化时
+      - ......
  - 🍉欢迎RemNote的爱好者们参与构建
     - [如何搜索你需要的内容](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/12)
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
 - 💬及时交流社区
-    - [QQ群1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36)
+    - QQ群
+      - [QQ群：1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36)
+      - QQ群:865385675
     - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
     - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
 - 🔗相关链接
+  - [RemNote官网](https://remnote.io/) 
+  - [知乎Remnote话题](https://www.zhihu.com/topic/21349162/hot)
   - [RN中文翻译协作](https://github.com/RemNoteCN)
   - [RN中文翻译协作2](https://github.com/TimKingNF/RemNote-Tutorials-Translated)
   - [RN官方论坛](https://forum.remnote.io)
