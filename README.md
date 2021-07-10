@@ -15,6 +15,7 @@
       - 当你想志愿翻译 RemNote
       - 当你觉得文档需要优化时
       - ......
+    - [🔴RemNote群协作知识库🌴-github](https://github.com/RemNote-CN/RemNote-CN/wiki/RemNote%E7%BE%A4%E5%8D%8F%E4%BD%9C%E7%9F%A5%E8%AF%86%E5%BA%93%F0%9F%8C%B4)
  - 🍉欢迎RemNote的爱好者们参与构建
     - [如何搜索你需要的内容](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/12)
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
