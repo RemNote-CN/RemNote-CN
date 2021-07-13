@@ -24,8 +24,10 @@
       - 👍 **RemNote 中文社区主力 QQ 群**:767860170
       - [QQ群:1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36) （由于各种原因暂时停止维护，请加入 767860170）
       - QQ群:865385675
-    - 👍 **Discord 中文社区** https://discord.gg/qXN8BQ3v （正在使用）
-    - 👍 **Telegaam 中文社区** https://t.me/joinchat/2lGeVyE94og4NzY9 （正在使用）
+    - **Discord** 
+      - 👍 中文社区 https://discord.gg/qXN8BQ3v （正在使用，中文用户必备）
+      - 👍 官方社区 https://discord.com/invite/UK7XaAR
+    - 👍 **Telegaam 中文社区** https://t.me/joinchat/2lGeVyE94og4NzY9 （正在使用，灌水群不限制聊天内容）
     - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
     - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
 - 🔗相关链接
