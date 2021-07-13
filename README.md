@@ -21,7 +21,7 @@
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
 - 💬及时交流社区
     - **QQ 群**
-      - 👍 **RemNote 中文社区主力 QQ 群**:767860170 R 
+      - 👍 **RemNote 中文社区主力 QQ 群**:767860170
       - [QQ群:1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36) （由于各种原因暂时停止维护，请加入 767860170）
       - QQ群:865385675
     - 👍 **Discord 中文社区** https://discord.gg/qXN8BQ3v （正在使用）
