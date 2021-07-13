@@ -23,7 +23,7 @@
     - **QQ 群**
       - 👍 **RemNote 中文社区主力 QQ 群**:767860170
       - [QQ群:1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36) （由于各种原因暂时停止维护，请加入 767860170）
-      - QQ群:865385675
+      - 👍 QQ 群:865385675
     - **Discord** 
       - 👍 中文社区 https://discord.gg/qXN8BQ3v （正在使用，中文用户必备）
       - 👍 官方社区 https://discord.com/invite/UK7XaAR
