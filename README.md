@@ -9,13 +9,8 @@
     - [RemNote中文讨论小组-论坛部分](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions)  
   - WIKI部分
     - 感兴趣的朋友可以在此把论坛中的主题进行整理，形成一种树状结构结构，这部分方便进行查阅
-    - [RemNote中文讨论小组-wiki部分(RN知识库)](https://github.com/5eagull/RemNote-CN/wiki )
-      - 你可以直接编辑中文帮助文档里头的内容！（已开放公众编辑权限）
-      - 当你想分享 RemNote 使用心得的时候
-      - 当你想志愿翻译 RemNote
-      - 当你觉得文档需要优化时
-      - ......
     - [🔴RemNote群协作知识库🌴-github](https://github.com/RemNote-CN/RemNote-CN/wiki/RemNote%E7%BE%A4%E5%8D%8F%E4%BD%9C%E7%9F%A5%E8%AF%86%E5%BA%93%F0%9F%8C%B4)
+    - (内容跟上面的有重复) [RemNote中文讨论小组-wiki部分(RN知识库)](https://github.com/5eagull/RemNote-CN/wiki )
  - 🍉欢迎RemNote的爱好者们参与构建
     - [如何搜索你需要的内容](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/12)
     - [如何添加图片](https://github.com/5eagull/RemNote-Chinese-chat-group/discussions/13)
@@ -25,10 +20,8 @@
       - 👍 **QQ 2 群**:865385675 (主力交流 Anki和间隔重复)
       - 👎 [QQ群:1026788769](https://jq.qq.com/?_wv=1027&k=3KkKuc36) （由于各种原因暂时停止维护，请加入 767860170）
     - **Discord** 
-      - 👍 中文社区 https://discord.gg/qXN8BQ3v （正在使用，中文用户必备）
       - 👍 官方社区 https://discord.com/invite/UK7XaAR
     - 👍 **Telegaam 中文社区** https://t.me/joinchat/2lGeVyE94og4NzY9 （正在使用，灌水群不限制聊天内容）
-    - [开黑服务器38993595](https://kaihei.co/2OYrO9 )
     - 你也可以通过QQ搜索"RemNote"加入其它中文讨论群组
 - 🔗相关链接
   - [RemNote官网](https://remnote.io/) 
